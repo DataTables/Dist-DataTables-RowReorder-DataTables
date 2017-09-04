@@ -3,7 +3,7 @@
     "version": "1.2.2",
     "description": "RowReorder for DataTables ",
     "files": [
-        "css/rowReorder.dataTables.css"
+        "css/**/*.css"
     ],
     "style": "css/rowReorder.dataTables.css",
     "keywords": [
