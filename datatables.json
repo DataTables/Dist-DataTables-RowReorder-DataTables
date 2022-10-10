@@ -1,7 +1,9 @@
 {
     "js": [
         "js/rowReorder.dataTables.js",
-        "js/rowReorder.dataTables.min.js"
+        "js/rowReorder.dataTables.min.js",
+        "js/rowReorder.dataTables.min.mjs",
+        "js/rowReorder.dataTables.mjs"
     ],
     "css": [
         "css/rowReorder.dataTables.css",
@@ -11,6 +13,5 @@
         "types/rowReorder.dataTables.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/RowReorder",
-    "last-tag": "1.2.8",
-    "last-sync": "cf637c223e7e5f5f47ae7edbf9aab3db6a36b417"
+    "last-tag": "1.2.8"
 }
