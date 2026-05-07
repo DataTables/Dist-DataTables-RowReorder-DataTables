@@ -1,4 +1,4 @@
-/*! DataTables styling wrapper for RowReorder
- * © SpryMedia Ltd - datatables.net/license
+/*! RowReorder default styling 2.0.0-beta.1 for DataTables
+ * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
-import jQuery from"jquery";import DataTable from"datatables.net-dt";import RowReorder from"datatables.net-rowreorder";let $=jQuery;export default DataTable;
+import DataTable from"datatables.net-dt";import RowReorder from"datatables.net-rowreorder";export default DataTable;
