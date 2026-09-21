@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-rowreorder-dt",
-    "description": "RowReorder for DataTables with styling for [DataTables](https://datatables.net/)",
+    "description": "RowReorder for DataTables with styling for DataTables",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-RowReorder-DataTables"
