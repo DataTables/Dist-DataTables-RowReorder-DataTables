@@ -37,9 +37,10 @@
     "exports": {
         ".": {
             "types": "./types/rowReorder.dataTables.d.ts",
+            "style": "./css/rowReorder.dataTables.css",
             "import": "./js/rowReorder.dataTables.mjs",
-            "default": "./js/rowReorder.dataTables.mjs",
-            "require": "./js/rowReorder.dataTables.js"
+            "require": "./js/rowReorder.dataTables.js",
+            "default": "./js/rowReorder.dataTables.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
